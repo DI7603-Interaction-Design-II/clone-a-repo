@@ -6,5 +6,5 @@
 5. Add a text file with your name and something else. (maybe your star sign?)
 6. `git add .`
 7. `git commit -m "sifuhasofuhoho"`
-8. `git push`
+8. `git push --set-upstream origin name`
 
